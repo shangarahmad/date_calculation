@@ -1,0 +1,4 @@
+c:\users\shangar\documents\visual studio 2010\Projects\Console_date_calculation\Console_date_calculation\bin\Debug\Console_date_calculation.exe
+c:\users\shangar\documents\visual studio 2010\Projects\Console_date_calculation\Console_date_calculation\bin\Debug\Console_date_calculation.pdb
+c:\users\shangar\documents\visual studio 2010\Projects\Console_date_calculation\Console_date_calculation\obj\x86\Debug\Console_date_calculation.exe
+c:\users\shangar\documents\visual studio 2010\Projects\Console_date_calculation\Console_date_calculation\obj\x86\Debug\Console_date_calculation.pdb
